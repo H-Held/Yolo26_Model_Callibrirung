@@ -1,5 +1,8 @@
 .venv/
 .vscode/
 __pycache__/
-test_data/*
-model/*
+# Ordnerstruktur im Repository behalten, aber keine Inhalte tracken
+test_data/**
+!test_data/.gitkeep
+model/**
+!model/.gitkeep
