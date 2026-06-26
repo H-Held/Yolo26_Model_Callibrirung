@@ -1,0 +1,15 @@
+# Core
+torch>=2.0
+torchvision>=0.15
+ultralytics>=8.0
+opencv-python>=4.5
+numpy>=1.24
+
+# COCO evaluation
+pycocotools>=2.0
+
+# Config / .env
+python-dotenv>=1.0
+
+# Optional: better progress bars & CLI
+# tqdm>=4.65
